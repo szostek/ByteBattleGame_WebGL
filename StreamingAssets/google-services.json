@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "896537792002",
+    "firebase_url": "https://cryptoplatformer-default-rtdb.firebaseio.com",
+    "project_id": "cryptoplatformer",
+    "storage_bucket": "cryptoplatformer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896537792002:android:8077896fcec52dd40b211b",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.CryptoPlatformer01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896537792002-0ntu05iktlr0rou452rferso1g748nkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZXjVM5d_MGZ84qEniKLtagH98Tr8fywk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896537792002-0ntu05iktlr0rou452rferso1g748nkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
